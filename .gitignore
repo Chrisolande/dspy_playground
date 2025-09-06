@@ -1,2 +1,4 @@
 .vincent/
 .vscode/
+.env
+media/
